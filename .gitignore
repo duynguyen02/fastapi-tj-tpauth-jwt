@@ -1,0 +1,15 @@
+.vscode
+build
+dist
+.eggs
+venv
+main.py
+__pycache__
+module
+templates
+static
+*.egg-info
+assets
+main.ipynb
+.venv
+.idea
