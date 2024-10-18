@@ -1,6 +1,6 @@
 # fastapi-tj-tpauth-jwt
 
-![PyPI - Version](https://img.shields.io/pypi/v/fastapi-tj-tpauth-jwt)
+![PyPI - Version](https://img.shields.io/pypi/v/fastapi_tj_tpauth_jwt)
 
 Integrate JWT into FastAPI using TP Servers authentication.
 
